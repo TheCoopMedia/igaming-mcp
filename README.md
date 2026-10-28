@@ -4,7 +4,8 @@ Bring [THE COOP’s iGaming news](https://thecoop.media/articles), [provider dat
 
 THE COOP is an independent B2B publication covering payments, platforms, technology and the people behind iGaming. Its public **Model Context Protocol (MCP) connector** lets compatible AI assistants search published articles, retrieve source-linked provider profiles and explore event records. Results link back to the original pages so you can inspect the evidence yourself.
 
-**Connector URL:** `https://thecoop.media/mcp`
+**Connector URL:** `https://thecoop.media/mcp` [![MCP Census](https://mcpcensus.com/badge/media.thecoop/the-coop.svg)](https://mcpcensus.com/lookup?q=media.thecoop%2Fthe-coop)
+
 
 **Transport:** Streamable HTTP · **Authentication:** none · **Access:** read-only
 
